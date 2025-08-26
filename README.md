@@ -1,1 +1,3 @@
-# Data_Analysis-Project
+# E-Commerce_Product_Returns
+
+E-Commerce Product Returns play a vital role in customer satisfaction and trust in online shopping platforms. This project focuses on building a smart return management system that allows customers to easily request product returns by providing order details and reasons. The system enables admins to review, approve, or reject return requests while maintaining transparency. Additionally, it provides insights into common return reasons, helping businesses improve product quality and reduce future returns. By streamlining the reverse logistics process, this solution ensures a smoother experience for both customers and sellers.
